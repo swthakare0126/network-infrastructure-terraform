@@ -10,3 +10,5 @@ module "stg" {
   stg        = var.storage_account
 }
 
+
+

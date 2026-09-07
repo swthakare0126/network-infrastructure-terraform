@@ -4,6 +4,10 @@ resource_group = {
     name     = "fibre"
     location = "centralindia"
   }
+  rg2 = {
+    name     = "zandu"
+    location = "centralindia"
+  }
 
 }
 storage_account = {
