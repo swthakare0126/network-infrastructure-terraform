@@ -4,7 +4,7 @@ resource_group = {
     name     = "fibre"
     location = "centralindia"
   }
-    rg2 = {
+  rg2 = {
     name     = "zandu"
     location = "centralindia"
   }
